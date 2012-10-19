@@ -20,6 +20,8 @@
 	// Do any additional setup after loading the view, typically from a nib.
     // Cada día escribo algo nuevo.
     //Esto es de Aitor.
+    // He añadido una nueva clave publica en lexyplanet para pedroh
+    
 }
 
 - (void)didReceiveMemoryWarning
