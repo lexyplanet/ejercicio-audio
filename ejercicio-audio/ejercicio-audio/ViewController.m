@@ -19,6 +19,7 @@
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
     // Cada día escribo algo nuevo.
+    //Esto es de Aitor.
 }
 
 - (void)didReceiveMemoryWarning
