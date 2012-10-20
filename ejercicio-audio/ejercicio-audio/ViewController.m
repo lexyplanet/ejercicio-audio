@@ -28,14 +28,7 @@
     
     //hecho x mariajose
     //escrito a las 18:30 horas.
-<<<<<<< HEAD
     //Estoy en la rama Master a las 20:00
-=======
-    
-    //Quiero escribir en mi rama pedroh
-    //Estoy en la rama pedroh
-    //Ahora he hecho un merge de la ramaPedroh a master (este codigo es de la ramaPedroh)
->>>>>>> ramaPedroh
 }
 
 - (void)didReceiveMemoryWarning
