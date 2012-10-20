@@ -31,6 +31,7 @@
     
     //Quiero escribir en mi rama pedroh
     //Estoy en la rama pedroh
+    //Ahora he hecho un merge de la ramaPedroh a master
 }
 
 - (void)didReceiveMemoryWarning
