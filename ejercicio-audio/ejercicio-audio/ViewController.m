@@ -31,6 +31,7 @@
     //Estoy en la rama Master a las 20:00
     //Ahora copio el contenido de ramaPedroh en master
     //Vuelvo a escribir algo enl a ramaPedroh para volver a realizar un Merge en master
+    //Hago un merge desde master a ramaPedroh
 }
 
 - (void)didReceiveMemoryWarning
