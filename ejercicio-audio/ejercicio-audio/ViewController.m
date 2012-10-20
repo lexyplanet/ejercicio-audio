@@ -30,6 +30,7 @@
     //escrito a las 18:30 horas.
     //Estoy en la rama Master a las 20:00
     //Ahora copio el contenido de ramaPedroh en master
+    //Vuelvo a escribir algo enl a ramaPedroh para volver a realizar un Merge en master
 }
 
 - (void)didReceiveMemoryWarning
