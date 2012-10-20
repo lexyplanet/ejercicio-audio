@@ -29,6 +29,7 @@
     //hecho x mariajose
     //escrito a las 18:30 horas.
     //Estoy en la rama Master a las 20:00
+    //Ahora copio el contenido de ramaPedroh en master
 }
 
 - (void)didReceiveMemoryWarning
